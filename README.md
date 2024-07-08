@@ -1,6 +1,6 @@
-# NumbleJSON
+# simplejson parser
 
-NumbleJSON is a lightweight Java library for easy and flexible JSON serialization and deserialization. It provides annotations and utility classes to map Java objects to JSON and vice versa, supporting various customization options.
+simplejson parser is a lightweight Java library for easy and flexible JSON serialization and deserialization. It provides annotations and utility classes to map Java objects to JSON and vice versa, supporting various customization options.
 
 ## Features
 
